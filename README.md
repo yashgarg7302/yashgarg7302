@@ -2,7 +2,7 @@
 
 
 <h3><b>🙋‍♂️About Me:</b></h3>
-My Name is <a href="https://www.linkedin.com/in/yash-garg-4ab97a1b6/">Yash Garg</a> and I am a <b>1<sup>st</sup> year</b> postgraduate pursuing my <b>M.Tech</b> in <b>Computer Science & Engineering</b> from <b>Dr. B.R. Ambedkar National Institute of Technology, Jalandhar, Punjab</b>.<br>
+My Name is <a href="https://www.linkedin.com/in/yash-garg-4ab97a1b6/">Yash Garg</a> and I am a <b>1<sup>st</sup> year</b> postgraduate student pursuing my <b>M.Tech</b> in <b>Computer Science & Engineering</b> from <b>Dr. B.R. Ambedkar National Institute of Technology, Jalandhar, Punjab</b>.<br>
 
 - ⚡  I have a strong passion for tackling challenges and engaging in the field of **Web Development**.
 
